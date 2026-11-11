@@ -1,0 +1,14 @@
+# 编译产物 / 二进制文件
+*.exe
+*.o
+*.out
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# 构建目录
+build/
+out/
+cmake-build-*/
